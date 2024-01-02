@@ -1,3 +1,5 @@
+# This is the header
+
 import mysql.connector
 
 def perform_sql_query(query):
